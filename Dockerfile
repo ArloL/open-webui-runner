@@ -1,1 +1,1 @@
-FROM ghcr.io/open-webui/open-webui:main@sha256:9b7fb388f0828b597e67c263667214c93592cbc5cac3047be89f5e92bc1085ba
+FROM ghcr.io/open-webui/open-webui:main@sha256:3039364e82311729e0737bf9bdd877e6b0aa84a02a7b4f220506b28c8d3181cb
